@@ -14,3 +14,4 @@ nparcial1=ntrabajos+nexamen;
 
 //Mostrar resultado
 console.log("La nota final para el primer parcial es: "+nparcial1);
+console.log("Esta es una modificación en el archivo");
